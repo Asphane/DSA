@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Asphane/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Asphane/DSA/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
@@ -86,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Asphane/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Asphane/DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Asphane/DSA/tree/master/0802-find-eventual-safe-states) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Asphane/DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Asphane/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Asphane/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
