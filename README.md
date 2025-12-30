@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Asphane/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Asphane/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/Asphane/DSA/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Asphane/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/Asphane/DSA/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/Asphane/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/Asphane/DSA/tree/master/0994-rotting-oranges) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Asphane/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Asphane/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Asphane/DSA/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Asphane/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Asphane/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Hash Table
 |  |
@@ -118,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Asphane/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Asphane/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+## Sorting
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Asphane/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
