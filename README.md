@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Asphane/DSA/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/Asphane/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Asphane/DSA/tree/master/1020-number-of-enclaves) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Asphane/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Asphane/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Asphane/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Asphane/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Asphane/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Asphane/DSA/tree/master/1020-number-of-enclaves) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Asphane/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Asphane/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Array
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Asphane/DSA/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/Asphane/DSA/tree/master/1048-longest-string-chain) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Asphane/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Asphane/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Asphane/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Matrix
 |  |
@@ -71,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Asphane/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/Asphane/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Asphane/DSA/tree/master/1020-number-of-enclaves) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Asphane/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Asphane/DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Asphane/DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Asphane/DSA/tree/master/1020-number-of-enclaves) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Asphane/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Asphane/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Asphane/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Asphane/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Greedy
 |  |
