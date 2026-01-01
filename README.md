@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Asphane/DSA/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/Asphane/DSA/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Asphane/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Asphane/DSA/tree/master/0213-house-robber-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Asphane/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Asphane/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Asphane/DSA/tree/master/0509-fibonacci-number) |
 | [0840-magic-squares-in-grid](https://github.com/Asphane/DSA/tree/master/0840-magic-squares-in-grid) |
