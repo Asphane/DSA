@@ -10,7 +10,7 @@ public:
 
         int ans=0;
         for(auto &it: mp){
-            if(it.second==n/2 && it.second==mp.size()-1){
+            if(it.second==n/2){
                 ans=it.first;
             }
         }
