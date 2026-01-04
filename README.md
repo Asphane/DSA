@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Asphane/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Asphane/DSA/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/Asphane/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Asphane/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Asphane/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Asphane/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/Asphane/DSA/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Asphane/DSA/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Asphane/DSA/tree/master/0131-palindrome-partitioning) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Asphane/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Asphane/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Asphane/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Asphane/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Asphane/DSA/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Asphane/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Asphane/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
