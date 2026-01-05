@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Asphane/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Asphane/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Asphane/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1328-break-a-palindrome](https://github.com/Asphane/DSA/tree/master/1328-break-a-palindrome) |
 ## Topological Sort
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Asphane/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/Asphane/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Asphane/DSA/tree/master/0948-bag-of-tokens) |
+| [1328-break-a-palindrome](https://github.com/Asphane/DSA/tree/master/1328-break-a-palindrome) |
 | [1975-maximum-matrix-sum](https://github.com/Asphane/DSA/tree/master/1975-maximum-matrix-sum) |
 ## Sorting
 |  |
