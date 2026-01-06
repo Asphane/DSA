@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Asphane/DSA/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/Asphane/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Asphane/DSA/tree/master/1020-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Asphane/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Asphane/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Asphane/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Asphane/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Asphane/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Asphane/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Asphane/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Asphane/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Asphane/DSA/tree/master/1020-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Asphane/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Asphane/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Asphane/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Array
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Asphane/DSA/tree/master/0062-unique-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Asphane/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
