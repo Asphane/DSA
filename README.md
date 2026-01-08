@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Asphane/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Asphane/DSA/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/Asphane/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/Asphane/DSA/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/Asphane/DSA/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Asphane/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Asphane/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Asphane/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Asphane/DSA/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/Asphane/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/Asphane/DSA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Asphane/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Asphane/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Asphane/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Asphane/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Asphane/DSA/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/Asphane/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/Asphane/DSA/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Asphane/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Asphane/DSA/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Asphane/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
