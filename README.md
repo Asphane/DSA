@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Asphane/DSA/tree/master/0210-course-schedule-ii) |
 | [0419-battleships-in-a-board](https://github.com/Asphane/DSA/tree/master/0419-battleships-in-a-board) |
 | [0547-number-of-provinces](https://github.com/Asphane/DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Asphane/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Asphane/DSA/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/Asphane/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Asphane/DSA/tree/master/1020-number-of-enclaves) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Asphane/DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Asphane/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Asphane/DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Asphane/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Asphane/DSA/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/Asphane/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Asphane/DSA/tree/master/0994-rotting-oranges) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Asphane/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Asphane/DSA/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Asphane/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0695-max-area-of-island](https://github.com/Asphane/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Asphane/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Asphane/DSA/tree/master/0739-daily-temperatures) |
 | [0840-magic-squares-in-grid](https://github.com/Asphane/DSA/tree/master/0840-magic-squares-in-grid) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Asphane/DSA/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Asphane/DSA/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/Asphane/DSA/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Asphane/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Asphane/DSA/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/Asphane/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/Asphane/DSA/tree/master/0994-rotting-oranges) |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Asphane/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Asphane/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Asphane/DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Asphane/DSA/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Asphane/DSA/tree/master/1020-number-of-enclaves) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Asphane/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Dynamic Programming
