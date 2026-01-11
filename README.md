@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Asphane/DSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Asphane/DSA/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Asphane/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Asphane/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Asphane/DSA/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Asphane/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Asphane/DSA/tree/master/0198-house-robber) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Asphane/DSA/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/Asphane/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Asphane/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Asphane/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Asphane/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Asphane/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Asphane/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Asphane/DSA/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Asphane/DSA/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Asphane/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Asphane/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Asphane/DSA/tree/master/0213-house-robber-ii) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Asphane/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Asphane/DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Asphane/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Asphane/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Asphane/DSA/tree/master/0739-daily-temperatures) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Asphane/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Asphane/DSA/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Asphane/DSA/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Asphane/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Backtracking
