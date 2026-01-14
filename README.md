@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Asphane/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Asphane/DSA/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Asphane/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Asphane/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/Asphane/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Asphane/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Asphane/DSA/tree/master/1143-longest-common-subsequence) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Asphane/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Asphane/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Asphane/DSA/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Asphane/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Asphane/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Asphane/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
