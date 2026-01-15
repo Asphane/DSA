@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Asphane/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Asphane/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Asphane/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Asphane/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Asphane/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3453-separate-squares-i](https://github.com/Asphane/DSA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Asphane/DSA/tree/master/3454-separate-squares-ii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Asphane/DSA/tree/master/0948-bag-of-tokens) |
 | [1048-longest-string-chain](https://github.com/Asphane/DSA/tree/master/1048-longest-string-chain) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asphane/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Asphane/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Two Pointers
 |  |
 | ------- |
