@@ -4,35 +4,33 @@ public:
         sort(hBars.begin(), hBars.end());
         sort(vBars.begin(), vBars.end());
 
-        int removable_v=1;
-        int removable_h=1;
+        int maxV=1;
+        int maxH=1;
 
-        int curr_h=1;
-        for(int i=1; i<hBars.size(); i++){
-            if(hBars[i]-hBars[i-1]==1){
-                curr_h++;
-            }
-
-            else{
-                curr_h=1;
-            }
-            removable_h=max(removable_h, curr_h);
-        }
-
-        int curr_v=1;
+        int currV=1;
         for(int i=1; i<vBars.size(); i++){
             if(vBars[i]-vBars[i-1]==1){
-                curr_v++;
+                currV++;
             }
 
             else{
-                curr_v=1;
+                currV=1;
             }
-            removable_v=max(removable_v, curr_v);
+            maxV=max(maxV, currV);
         }
-        
-        int side=min(removable_h+1, removable_v+1);
 
-        return side*side;
+        int currH=1;
+        for(int i=1; i<hBars.size(); i++){
+            if(hBars[i]-hBars[i-1]==1){
+                currH++;
+            }
+
+            else{
+                currH=1;
+            }
+            maxH=max(maxH, currH);
+        }
+        int l=min(maxV, maxH)+1;
+        return l*l;
     }
 };
