@@ -8,29 +8,27 @@ public:
         vFences.push_back(1);
         vFences.push_back(n);
 
+        unordered_set<int> s;
         sort(hFences.begin(), hFences.end());
         sort(vFences.begin(), vFences.end());
 
-        unordered_set<int> width;
-        unordered_set<int> height;
-
-        for(int i=0; i<vFences.size(); i++){
-            for(int j=i+1; j<vFences.size(); j++){
-                int diff=vFences[j]-vFences[i];
-                width.insert(diff);
-            }
-        }
-
-        int maxL=0;
         for(int i=0; i<hFences.size(); i++){
             for(int j=i+1; j<hFences.size(); j++){
                 int diff=hFences[j]-hFences[i];
-                if(width.find(diff)!=width.end()){
-                    maxL=max(maxL, diff);
-                }
+                s.insert(diff);
             }
         }
 
-        return maxL==0 ? -1:(1LL*maxL*maxL)%M;
+        int len=0;
+        for(int i=0; i<vFences.size(); i++){
+            for(int j=i+1; j<vFences.size(); j++){
+                int diff=vFences[j]-vFences[i];
+                if(s.find(diff)!=s.end()){
+                    len=max(len, diff);
+                }
+            }
+        }
+        int ans=(1LL*len*len)%M;
+        return ans==0 ? -1:ans;
     }
 };
