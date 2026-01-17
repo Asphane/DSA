@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Asphane/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/Asphane/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Asphane/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Asphane/DSA/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Asphane/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Asphane/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Asphane/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Asphane/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Asphane/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Asphane/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Asphane/DSA/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Asphane/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Backtracking
 |  |
@@ -462,4 +464,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Asphane/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Asphane/DSA/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Asphane/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
