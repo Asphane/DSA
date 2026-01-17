@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Asphane/DSA/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Asphane/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Asphane/DSA/tree/master/1975-maximum-matrix-sum) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Asphane/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Asphane/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Asphane/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Asphane/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Asphane/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1048-longest-string-chain](https://github.com/Asphane/DSA/tree/master/1048-longest-string-chain) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asphane/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Asphane/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2716-minimize-string-length](https://github.com/Asphane/DSA/tree/master/2716-minimize-string-length) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Asphane/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## String
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Asphane/DSA/tree/master/0948-bag-of-tokens) |
 | [1328-break-a-palindrome](https://github.com/Asphane/DSA/tree/master/1328-break-a-palindrome) |
 | [1975-maximum-matrix-sum](https://github.com/Asphane/DSA/tree/master/1975-maximum-matrix-sum) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Asphane/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Asphane/DSA/tree/master/0948-bag-of-tokens) |
 | [1048-longest-string-chain](https://github.com/Asphane/DSA/tree/master/1048-longest-string-chain) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asphane/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Asphane/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Asphane/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Two Pointers
 |  |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Asphane/DSA/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Asphane/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Asphane/DSA/tree/master/1929-concatenation-of-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Asphane/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -444,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Asphane/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Asphane/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Asphane/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Asphane/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Geometry
 |  |
 | ------- |
