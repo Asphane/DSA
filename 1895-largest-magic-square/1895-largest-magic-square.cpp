@@ -1,65 +1,69 @@
 class Solution {
 public:
     int largestMagicSquare(vector<vector<int>>& grid) {
-        int m=grid.size();
-        int n=grid[0].size();
+        int r=grid.size();
+        int c=grid[0].size();
 
-        vector<vector<int>> rowSum(m, vector<int>(n));
-        vector<vector<int>> colSum(m, vector<int>(n));
+        vector<vector<int>> rowSum(r, vector<int>(c, 0));
+        vector<vector<int>> colSum(r, vector<int>(c, 0));
 
-        for(int r=0; r<m; r++){
-            rowSum[r][0]=grid[r][0];
-            for(int c=1; c<n; c++){
-                rowSum[r][c]=grid[r][c]+rowSum[r][c-1];
+        for(int i=0; i<r; i++){
+            rowSum[i][0]=grid[i][0];
+        }
+
+        for(int i=0; i<r; i++){
+            for(int j=1; j<c; j++){
+                rowSum[i][j]=grid[i][j]+rowSum[i][j-1];
             }
         }
 
-        for(int c=0; c<n; c++){
-            colSum[0][c]=grid[0][c];
-            for(int r=1; r<m; r++){
-                colSum[r][c]=grid[r][c]+colSum[r-1][c];
+        for(int i=0; i<c; i++){
+            colSum[0][i]=grid[0][i];
+        }
+
+        for(int i=1; i<r; i++){
+            for(int j=0; j<c; j++){
+                colSum[i][j]=grid[i][j]+colSum[i-1][j];
             }
         }
 
-        for(int side=min(m, n); side>=2; side--){
-            for(int i=0; i+side-1<m; i++){
-                for(int j=0; j+side-1<n; j++){
-                    int targetSum=rowSum[i][j+side-1]-(j>0 ? rowSum[i][j-1]:0);
-                    bool allSame=true;
+        for(int side=min(r, c); side>=2; side--){
+            for(int i=0; i+side-1<r; i++){
+                for(int j=0; j+side-1<c; j++){
+                    int target=rowSum[i][j+side-1]-(j>0 ? rowSum[i][j-1]:0);
+                    bool same=true;
 
-                    for(int r=i+1; r<i+side; r++){
-                        int rSum=rowSum[r][j+side-1]-(j>0 ? rowSum[r][j-1]:0);
-                        if(rSum!=targetSum){
-                            allSame=false;
+                    for(int row=i+1; row<i+side; row++){
+                        int sum=rowSum[row][j+side-1]-(j>0 ? rowSum[row][j-1]:0);
+
+                        if(sum!=target){
+                            same=false;
                             break;
                         }
-                    }   
-
-                    if(!allSame){
-                        continue;
                     }
 
-                    for(int c=j; c<j+side; c++){
-                        int cSum=colSum[i+side-1][c]-(i>0 ? colSum[i-1][c]:0);
-                        if(cSum!=targetSum){
-                            allSame=false;
+                    if(!same) continue;
+
+                    for(int col=j; col<j+side; col++){
+                        int sum=colSum[i+side-1][col]-(i>0 ? colSum[i-1][col]:0);
+
+                        if(sum!=target){
+                            same=false;
                             break;
                         }
-                    }   
-
-                    if(!allSame){
-                        continue;
                     }
+
+                    if(!same) continue;
 
                     int diag=0;
                     int antiDiag=0;
-
                     for(int k=0; k<side; k++){
                         diag+=grid[i+k][j+k];
-                        antiDiag+=grid[i+k][j+side-1-k];
+                        antiDiag+=grid[i+k][j+side-1-k];    
                     }
-                    if(diag==targetSum && antiDiag==targetSum){
-                            return side;
+
+                    if(diag==target && antiDiag==target){
+                        return side;
                     }
                 }
             }
