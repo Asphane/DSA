@@ -16,10 +16,8 @@ public:
 
                 int height=tr_y-bl_y;
 
-                int len=min(width, height);
-
-                side=max(side, len);
-            }
+                side=max(side, min(width, height));
+            }     
         }
         return 1LL*side*side;
     }
