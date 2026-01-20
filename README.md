@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Asphane/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Asphane/DSA/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Asphane/DSA/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/Asphane/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Asphane/DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Asphane/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Asphane/DSA/tree/master/0733-flood-fill) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Asphane/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Asphane/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Asphane/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Asphane/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Asphane/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Asphane/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Asphane/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Asphane/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Asphane/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Asphane/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Asphane/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Asphane/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Asphane/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Asphane/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
