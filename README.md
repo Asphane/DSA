@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Asphane/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Asphane/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Asphane/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Asphane/DSA/tree/master/0133-clone-graph) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Asphane/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Asphane/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Asphane/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Asphane/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Asphane/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Asphane/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Asphane/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Asphane/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Asphane/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Asphane/DSA/tree/master/0130-surrounded-regions) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Asphane/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Asphane/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Asphane/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Asphane/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Asphane/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
