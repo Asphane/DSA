@@ -24,8 +24,8 @@ public:
         }
 
         for(int side=0; side<min(r, c); side++){
-            for(int i=0; i+side<r; i++){
-               for(int j=0; j+side<c; j++){
+            for(int i=0; i<r-side; i++){
+               for(int j=0; j<c-side; j++){
                     int new_i=i+side;
                     int new_j=j+side;
 
