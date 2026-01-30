@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Asphane/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Asphane/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Asphane/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Asphane/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Asphane/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Asphane/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Asphane/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/Asphane/DSA/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Asphane/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Asphane/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Asphane/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Asphane/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Asphane/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Hash Table
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/Asphane/DSA/tree/master/1328-break-a-palindrome) |
 | [2716-minimize-string-length](https://github.com/Asphane/DSA/tree/master/2716-minimize-string-length) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Asphane/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Asphane/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3340-check-balanced-string](https://github.com/Asphane/DSA/tree/master/3340-check-balanced-string) |
 ## Topological Sort
 |  |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Asphane/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Asphane/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Asphane/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Asphane/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Asphane/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Line Sweep
 |  |
@@ -588,5 +592,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Asphane/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Asphane/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Asphane/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Asphane/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
