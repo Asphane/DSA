@@ -12,7 +12,7 @@ public:
         while(i < n && nums[i] < nums[i-1]){
             i++;
         }
-        if(i == 1 || i == n) return false;
+        if(i == n) return false;
 
         while(i < n && nums[i] > nums[i-1]){
             i++;
