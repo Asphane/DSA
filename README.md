@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Asphane/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Asphane/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Asphane/DSA/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3379-transformed-array](https://github.com/Asphane/DSA/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/Asphane/DSA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Asphane/DSA/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Asphane/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Asphane/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Asphane/DSA/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Asphane/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3379-transformed-array](https://github.com/Asphane/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Asphane/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Asphane/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Bit Manipulation
