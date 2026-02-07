@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Asphane/DSA/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Asphane/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Asphane/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Asphane/DSA/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1631-path-with-minimum-effort](https://github.com/Asphane/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Asphane/DSA/tree/master/1765-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Asphane/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Asphane/DSA/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Asphane/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Asphane/DSA/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1929-concatenation-of-array](https://github.com/Asphane/DSA/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Asphane/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3379-transformed-array](https://github.com/Asphane/DSA/tree/master/3379-transformed-array) |
@@ -629,4 +631,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Asphane/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Asphane/DSA/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
