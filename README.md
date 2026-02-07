@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Asphane/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Asphane/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Asphane/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Asphane/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Asphane/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1931-painting-a-grid-with-three-different-colors](https://github.com/Asphane/DSA/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Asphane/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Asphane/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Asphane/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1328-break-a-palindrome](https://github.com/Asphane/DSA/tree/master/1328-break-a-palindrome) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Asphane/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2716-minimize-string-length](https://github.com/Asphane/DSA/tree/master/2716-minimize-string-length) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Asphane/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Asphane/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Asphane/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Asphane/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Asphane/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Asphane/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
