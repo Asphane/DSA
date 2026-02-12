@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/Asphane/DSA/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Asphane/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/Asphane/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Asphane/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Asphane/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Asphane/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Asphane/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Asphane/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
 |  |
 | ------- |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Asphane/DSA/tree/master/1895-largest-magic-square) |
 | [2485-find-the-pivot-integer](https://github.com/Asphane/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3719-longest-balanced-subarray-i](https://github.com/Asphane/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Asphane/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Asphane/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3454-separate-squares-ii](https://github.com/Asphane/DSA/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Asphane/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Asphane/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Asphane/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Asphane/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Asphane/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
