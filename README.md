@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Asphane/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Asphane/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Asphane/DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Asphane/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Asphane/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Asphane/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Asphane/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3340-check-balanced-string](https://github.com/Asphane/DSA/tree/master/3340-check-balanced-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Asphane/DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Asphane/DSA/tree/master/3714-longest-balanced-substring-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Asphane/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1895-largest-magic-square](https://github.com/Asphane/DSA/tree/master/1895-largest-magic-square) |
 | [2485-find-the-pivot-integer](https://github.com/Asphane/DSA/tree/master/2485-find-the-pivot-integer) |
+| [3714-longest-balanced-substring-ii](https://github.com/Asphane/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Asphane/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Asphane/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Indexed Tree
