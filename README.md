@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Asphane/DSA/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Asphane/DSA/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/Asphane/DSA/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Asphane/DSA/tree/master/0645-set-mismatch) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Asphane/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Asphane/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Asphane/DSA/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Asphane/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Asphane/DSA/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Asphane/DSA/tree/master/0401-binary-watch) |
 ## Combinatorics
 |  |
 | ------- |
