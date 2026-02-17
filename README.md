@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/Asphane/DSA/tree/master/0814-binary-tree-pruning) |
 | [0841-keys-and-rooms](https://github.com/Asphane/DSA/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Asphane/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/Asphane/DSA/tree/master/0872-leaf-similar-trees) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Asphane/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Asphane/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Asphane/DSA/tree/master/1020-number-of-enclaves) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Asphane/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/Asphane/DSA/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Asphane/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/Asphane/DSA/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Asphane/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Asphane/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Asphane/DSA/tree/master/1110-delete-nodes-and-return-forest) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Asphane/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0814-binary-tree-pruning](https://github.com/Asphane/DSA/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Asphane/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0872-leaf-similar-trees](https://github.com/Asphane/DSA/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Asphane/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Asphane/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Asphane/DSA/tree/master/1110-delete-nodes-and-return-forest) |
