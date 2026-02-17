@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Asphane/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Asphane/DSA/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/Asphane/DSA/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Asphane/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0695-max-area-of-island](https://github.com/Asphane/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Asphane/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Asphane/DSA/tree/master/0743-network-delay-time) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Asphane/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Asphane/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Asphane/DSA/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Asphane/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0814-binary-tree-pruning](https://github.com/Asphane/DSA/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Asphane/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Asphane/DSA/tree/master/0872-leaf-similar-trees) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asphane/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Asphane/DSA/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Asphane/DSA/tree/master/0645-set-mismatch) |
+| [0652-find-duplicate-subtrees](https://github.com/Asphane/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0840-magic-squares-in-grid](https://github.com/Asphane/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Asphane/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Asphane/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Asphane/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Asphane/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Asphane/DSA/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Asphane/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0814-binary-tree-pruning](https://github.com/Asphane/DSA/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Asphane/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Asphane/DSA/tree/master/0872-leaf-similar-trees) |
