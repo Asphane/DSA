@@ -11,33 +11,38 @@
  */
 class Solution {
 public:
-    map<int, int> mp;
-    void DFS(TreeNode* root, int level){
-        if(!root){
-            return;
-        }
+    void solve(TreeNode* root, map<int, int> &mp, int height){
+        queue<pair<TreeNode*, int>> q;
+        q.push({root, height});
 
-        mp[level]+=root->val;
+        while(!q.empty()){
+            int n = q.size();
+            int sum = 0;
+            while(n--){
+                auto node = q.front().first;
+                int level = q.front().second;
+                q.pop();
 
-        DFS(root->left, level+1);
-        DFS(root->right, level+1);
-    }
-    int maxLevelSum(TreeNode* root) {
-        //mp.clear();
-        DFS(root, 1);
+                mp[level] += node->val;
 
-        int maxSum=INT_MIN;
-        int res_level=0;
-
-        for(auto &it: mp){
-            int level=it.first;
-            int sum=it.second;
-
-            if(sum>maxSum){
-                maxSum=sum;
-                res_level=level;
+                if(node->left) q.push({node->left, level+1});
+                if(node->right) q.push({node->right, level+1});
             }
         }
-        return res_level;
+    }
+
+    int maxLevelSum(TreeNode* root) {
+        map<int, int> mp;
+        solve(root, mp, 1);
+        int max_sum = INT_MIN;
+        int ans = 1;
+
+        for(auto &it: mp){
+            if(it.second > max_sum){
+                max_sum = it.second;
+                ans = it.first;
+            }
+        }
+        return ans;
     }
 };
