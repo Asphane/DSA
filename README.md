@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Asphane/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Asphane/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Asphane/DSA/tree/master/2097-valid-arrangement-of-pairs) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Asphane/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Asphane/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/Asphane/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Asphane/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Asphane/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Asphane/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Asphane/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/Asphane/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Asphane/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Asphane/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Asphane/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Database
 |  |
 | ------- |
