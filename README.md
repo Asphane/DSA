@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Asphane/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Asphane/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Asphane/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Asphane/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Asphane/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Asphane/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Asphane/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Asphane/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Asphane/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Asphane/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/Asphane/DSA/tree/master/1765-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Asphane/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Asphane/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Asphane/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Asphane/DSA/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Array
 |  |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/Asphane/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asphane/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Asphane/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Asphane/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2716-minimize-string-length](https://github.com/Asphane/DSA/tree/master/2716-minimize-string-length) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Asphane/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Asphane/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -607,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Asphane/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Asphane/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Asphane/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Asphane/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Database
 |  |
 | ------- |
