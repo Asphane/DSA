@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Asphane/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Asphane/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Asphane/DSA/tree/master/1390-four-divisors) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Asphane/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/Asphane/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Asphane/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Recursion
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Asphane/DSA/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Asphane/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Asphane/DSA/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Asphane/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Asphane/DSA/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Asphane/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3379-transformed-array](https://github.com/Asphane/DSA/tree/master/3379-transformed-array) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/Asphane/DSA/tree/master/0868-binary-gap) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Asphane/DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Asphane/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Asphane/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Asphane/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Asphane/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Counting Sort
