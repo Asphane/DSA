@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Asphane/DSA/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Asphane/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Asphane/DSA/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Asphane/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Asphane/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Asphane/DSA/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Asphane/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Asphane/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Asphane/DSA/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Asphane/DSA/tree/master/0368-largest-divisible-subset) |
 | [0645-set-mismatch](https://github.com/Asphane/DSA/tree/master/0645-set-mismatch) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Asphane/DSA/tree/master/0088-merge-sorted-array) |
 | [0647-palindromic-substrings](https://github.com/Asphane/DSA/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/Asphane/DSA/tree/master/0696-count-binary-substrings) |
 | [0881-boats-to-save-people](https://github.com/Asphane/DSA/tree/master/0881-boats-to-save-people) |
