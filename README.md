@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Asphane/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Asphane/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Asphane/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Asphane/DSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Asphane/DSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Asphane/DSA/tree/master/0066-plus-one) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Asphane/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Asphane/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Asphane/DSA/tree/master/0088-merge-sorted-array) |
 | [0647-palindromic-substrings](https://github.com/Asphane/DSA/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/Asphane/DSA/tree/master/0696-count-binary-substrings) |
