@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Asphane/DSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Asphane/DSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Asphane/DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Asphane/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Asphane/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Asphane/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Asphane/DSA/tree/master/0088-merge-sorted-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Asphane/DSA/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Asphane/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Asphane/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Asphane/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Asphane/DSA/tree/master/0200-number-of-islands) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Asphane/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Asphane/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Asphane/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Asphane/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Asphane/DSA/tree/master/0133-clone-graph) |
