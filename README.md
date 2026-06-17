@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Asphane/DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Asphane/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Asphane/DSA/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Asphane/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/Asphane/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Asphane/DSA/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Asphane/DSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Asphane/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Asphane/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Asphane/DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Asphane/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Asphane/DSA/tree/master/0645-set-mismatch) |
 | [0652-find-duplicate-subtrees](https://github.com/Asphane/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0840-magic-squares-in-grid](https://github.com/Asphane/DSA/tree/master/0840-magic-squares-in-grid) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Asphane/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Asphane/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Asphane/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Asphane/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1895-largest-magic-square](https://github.com/Asphane/DSA/tree/master/1895-largest-magic-square) |
