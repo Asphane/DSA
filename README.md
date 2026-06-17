@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Asphane/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Asphane/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Asphane/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Asphane/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Asphane/DSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Asphane/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Asphane/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Asphane/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Asphane/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Asphane/DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Asphane/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Asphane/DSA/tree/master/0085-maximal-rectangle) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Asphane/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Asphane/DSA/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Asphane/DSA/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Asphane/DSA/tree/master/1441-build-an-array-with-stack-operations) |
