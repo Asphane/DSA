@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Asphane/DSA/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Asphane/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/Asphane/DSA/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/Asphane/DSA/tree/master/0796-rotate-string) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Asphane/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1021-remove-outermost-parentheses](https://github.com/Asphane/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Asphane/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -926,4 +927,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Asphane/DSA/tree/master/0493-reverse-pairs) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Asphane/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
