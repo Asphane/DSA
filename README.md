@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Asphane/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asphane/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Asphane/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Asphane/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Asphane/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Asphane/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Asphane/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Asphane/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Asphane/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Asphane/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Asphane/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Asphane/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2716-minimize-string-length](https://github.com/Asphane/DSA/tree/master/2716-minimize-string-length) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Asphane/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Asphane/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/Asphane/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asphane/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Asphane/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Asphane/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Asphane/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3713-longest-balanced-substring-i](https://github.com/Asphane/DSA/tree/master/3713-longest-balanced-substring-i) |
