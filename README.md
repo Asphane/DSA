@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Asphane/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Asphane/DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Asphane/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Asphane/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Asphane/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Asphane/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Asphane/DSA/tree/master/0229-majority-element-ii) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Asphane/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Asphane/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Asphane/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Asphane/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Asphane/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Asphane/DSA/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/Asphane/DSA/tree/master/0696-count-binary-substrings) |
@@ -885,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Asphane/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Asphane/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Asphane/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Asphane/DSA/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Asphane/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Asphane/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
