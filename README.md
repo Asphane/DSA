@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Asphane/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Asphane/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1200-minimum-absolute-difference](https://github.com/Asphane/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Asphane/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Asphane/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Asphane/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Asphane/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Asphane/DSA/tree/master/1048-longest-string-chain) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Asphane/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1189-maximum-number-of-balloons](https://github.com/Asphane/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Asphane/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Asphane/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Asphane/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Asphane/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Asphane/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Asphane/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Asphane/DSA/tree/master/0840-magic-squares-in-grid) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Asphane/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Asphane/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Asphane/DSA/tree/master/1390-four-divisors) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Asphane/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Asphane/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Asphane/DSA/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Asphane/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Asphane/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Asphane/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Asphane/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Asphane/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
@@ -679,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Asphane/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Asphane/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Asphane/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Asphane/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Asphane/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Asphane/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Simulation
