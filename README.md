@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Asphane/DSA/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Asphane/DSA/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Asphane/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Asphane/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Asphane/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Asphane/DSA/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Asphane/DSA/tree/master/0410-split-array-largest-sum) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Asphane/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Asphane/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Asphane/DSA/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Asphane/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Asphane/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Asphane/DSA/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Asphane/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/Asphane/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/Asphane/DSA/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
