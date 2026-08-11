@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Asphane/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Asphane/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Asphane/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2270-number-of-ways-to-split-array](https://github.com/Asphane/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Asphane/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2574-left-and-right-sum-differences](https://github.com/Asphane/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/Asphane/DSA/tree/master/2643-row-with-maximum-ones) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Asphane/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1895-largest-magic-square](https://github.com/Asphane/DSA/tree/master/1895-largest-magic-square) |
 | [1991-find-the-middle-index-in-array](https://github.com/Asphane/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/Asphane/DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2485-find-the-pivot-integer](https://github.com/Asphane/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Asphane/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3714-longest-balanced-substring-ii](https://github.com/Asphane/DSA/tree/master/3714-longest-balanced-substring-ii) |
