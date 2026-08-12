@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Asphane/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/Asphane/DSA/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Asphane/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0986-interval-list-intersections](https://github.com/Asphane/DSA/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/Asphane/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Asphane/DSA/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/Asphane/DSA/tree/master/1048-longest-string-chain) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Asphane/DSA/tree/master/0696-count-binary-substrings) |
 | [0881-boats-to-save-people](https://github.com/Asphane/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Asphane/DSA/tree/master/0948-bag-of-tokens) |
+| [0986-interval-list-intersections](https://github.com/Asphane/DSA/tree/master/0986-interval-list-intersections) |
 | [1048-longest-string-chain](https://github.com/Asphane/DSA/tree/master/1048-longest-string-chain) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Asphane/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Asphane/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -1003,4 +1005,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Asphane/DSA/tree/master/0523-continuous-subarray-sum) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Asphane/DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
